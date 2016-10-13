@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+/**
+ * Name: Mark Chipp
+ * Date: 13-Oct-2016
+ * StudentID: 200180985
+ */
+
 namespace COMP1004_F2016_Lesson6
 {
     public class Character
